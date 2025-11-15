@@ -1,4 +1,4 @@
-# 👋 Hey, I’m Rams — Freelance Web Developer & Landing Page Specialist
+# 👋 Hey, I’m Rams Freelance Web Developer & Landing Page Specialist
 
 I design and code clean, responsive landing pages and small business websites using  
 **HTML, CSS, and JavaScript**. My work focuses on strong layout, good spacing,  
