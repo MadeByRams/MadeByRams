@@ -24,13 +24,13 @@ mobile-first design, and simple interactions that help users instead of distract
 Here are some example builds that show the kind of work I do:
 
 - **AI Automation Landing Page**  
-  Live demo: ai-automation-site.netlify.app
+  Live demo: https://ai-automation-site.netlify.app/
 
 - **Luxe Horizon Travel Website**  
-  Live demo: luxe-horizon-travel.netlify.app
-
+  Live demo: https://luxe-horizon-travel.netlify.app/
+  
 - **Portfolio Site (MadeByRams)**  
-  Live demo: madebyrams-portfolio.netlify.app
+  Live demo: https://madebyrams-portfolio.netlify.app/
 
 (More projects coming soon.)
 
