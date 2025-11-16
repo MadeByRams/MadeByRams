@@ -1,7 +1,7 @@
 # 👋 Hey, I’m Rams Freelance Web Developer & Landing Page Specialist
 
 I design and code clean, responsive landing pages and small business websites using  
-**HTML, CSS, and JavaScript**. My work focuses on strong layout, good spacing,  
+**HTML, CSS, and JavaScript, Node, React**. My work focuses on strong layout, good spacing,  
 mobile-first design, and simple interactions that help users instead of distracting them.
 
 ### 💼 What I Do
@@ -15,7 +15,8 @@ mobile-first design, and simple interactions that help users instead of distract
 ### 🧰 Tech I Use
 - **HTML5**  
 - **CSS3 (Flexbox, Grid)**  
-- **JavaScript (Vanilla)**  
+- **JavaScript (Vanilla)**
+- **Node and React**
 - **Netlify** for hosting  
 - **Formspree** for contact forms  
 - **GitHub** for version control
